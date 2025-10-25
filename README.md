@@ -17,5 +17,14 @@ Grapholio is a modular, research-grade framework for simulating financial market
 
 ---
 
-## 🗂️ Project Structure
+## 🗂️ Main Pipeline 
+
+'''
+python3 main.py
+'''
+
+  - Downloads financial data
+  - Computes correlations and features
+  - Builds graphs over time
+  - Generates interactive visualizations in /graphs/
 
